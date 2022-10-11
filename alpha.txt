@@ -1,7 +1,2 @@
-beta
-gamma
-beta
-gamma
-teemp
-best
-<!-- add all lines in oneliner -->
+beta gamma beta gamma teemp best
+<!-- done please check now-->
