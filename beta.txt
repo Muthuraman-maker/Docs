@@ -1,4 +1,1 @@
-alpha
-gamma
-alpha
-alohas
+alpha gamma  alpha alohas - fixed
