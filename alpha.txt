@@ -4,3 +4,4 @@ beta
 gamma
 teemp
 best
+<!-- add all lines in oneliner -->
